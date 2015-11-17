@@ -3496,6 +3496,6 @@
     ],
     "description": "An implementation of cat in Nim",
     "license": "MIT",
-    "web": "https://github.com/shakna-israel/nimcat",
+    "web": "https://github.com/shakna-israel/nimcat"
   }
 ]
